@@ -1,3 +1,9 @@
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=100&section=footer&reversal=false&text=EUBASTOSDEV&fontSize=70&fontColor=FFFFF&fontAlign=50&fontAlignY=50&rotate=-1&stroke=-&animation=fadeIn&desc=DEVELOPER%20-%20STUDENT%20-%20ENGINER%20-%20CODER&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+</div>
+
+###
+
 <div data-importer="socials" align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
@@ -9,7 +15,7 @@
 
 ###
 
-<h5 data-importer="text" align="center">Aspiring full-stack Developer</h5>
+<h4 data-importer="text" align="center">Aspiring full-stack Developer</h4>
 
 ###
 
@@ -47,6 +53,14 @@
 
 ###
 
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eubastosdev/Eubastosdev/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eubastosdev/Eubastosdev/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Eubastosdev/Eubastosdev/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+</picture>
+
+###
+
 <h3 data-importer="text" align="left">Status 🗂️</h3>
 
 ###
@@ -56,6 +70,13 @@
 <div data-importer="stats" align="left">
   <img src="https://raw.githubusercontent.com/Eubastosdev/Eubastosdev/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/Eubastosdev/Eubastosdev/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="300" alt="languages graph"  />
+</div>
+
+###
+
+<div data-importer="stats" align="left">
+  <img src="https://raw.githubusercontent.com/Eubastosdev/Eubastosdev/trophy-output/trophy.svg?theme=nord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://raw.githubusercontent.com/Eubastosdev/Eubastosdev/activity-graph-output/activity-graph.svg?radius=16&theme=gotham&area=true&order=5&hide_border=false" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
